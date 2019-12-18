@@ -1,2 +1,2 @@
 # parser2
- website pareser using webdriver
+ website parser using webdriver
